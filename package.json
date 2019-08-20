@@ -3,11 +3,9 @@
   "version": "0.3.0",
   "private": true,
   "author": {
-    "name": "Safdar Jamal",
-    "email": "safdar.dev@gmail.com",
-    "url": "https://safdarjamal.github.io"
+    "name": "wdev733",
+    "email": "wdev733@gmail.com"
   },
-  "homepage": "https://safdarjamal.github.io/quiz-app",
   "dependencies": {
     "he": "^1.2.0",
     "react": "^16.8.6",
